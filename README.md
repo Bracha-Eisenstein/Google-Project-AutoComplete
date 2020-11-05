@@ -12,23 +12,23 @@ If there are five sentences that the text is their sub-string, they will be retu
 
 The results will be from sentences within given input text files.
 
-##Example
-The user input:
+## Example
+### The user input:
 appl
 
-Results:
-Apple is dedicated to the empowerment of man....
+### Results:
+  1. Apple is dedicated to the empowerment of man....
 
-I'm applying for a job
+  2. I'm applying for a job
 
-An application program typically presents the user with a single structure, with all the other components of the system hidden.
+  3. An application program typically presents the user with a single structure, with all the other components of the system hidden.
 
-This approach, however, has a couple of downsides.
+  4. This approach, however, has a couple of downsides.
 
-Apparently time had caught up with Mom before she could finish.
+  5. Apparently time had caught up with Mom before she could finish.
 
-Libraries/Technologies Used
+# Libraries/Technologies Used
 python 3.8
 
-Special Thanks
+# Special Thanks
 The Google team
