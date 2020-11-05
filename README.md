@@ -12,7 +12,7 @@ If there are five sentences that the text is their sub-string, they will be retu
 
 The results will be from sentences within given input text files.
 
-Example
+##Example
 The user input:
 appl
 
